@@ -1,10 +1,10 @@
 {
-  "id": "/eightball-game/",
+  "id": "/",
   "name": "8-Ball",
   "short_name": "8-Ball",
   "description": "Retro pixel 8-ball pool: play the computer, pass and play, or take turns online with friends.",
-  "start_url": "/eightball-game/",
-  "scope": "/eightball-game/",
+  "start_url": "/",
+  "scope": "/",
   "display": "fullscreen",
   "orientation": "landscape",
   "background_color": "#120f1c",
