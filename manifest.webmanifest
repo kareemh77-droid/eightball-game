@@ -1,0 +1,31 @@
+{
+  "background_color": "#120f1c",
+  "description": "Retro pixel 8-ball pool: play the computer, pass and play, or take turns online with friends.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "8-Ball",
+  "orientation": "landscape",
+  "scope": "./",
+  "short_name": "8-Ball",
+  "start_url": "./",
+  "theme_color": "#120f1c"
+}
